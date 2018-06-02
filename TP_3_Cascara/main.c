@@ -37,6 +37,7 @@ int main()
                 break;
             case 3:
                 system("cls");
+                flag2=1;
                 modificarPelicula(movie,CANT);
                break;
             case 4:
